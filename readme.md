@@ -6,7 +6,7 @@ Welcome to the EduAR repository! Dive into the fascinating world of augmented re
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
-  <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; margin-bottom: 6px;">
   <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
 </div>
 
@@ -25,8 +25,8 @@ Check out some screenshots of EduAR in action!
 
 ### Tourism
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
   <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
   <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
 </div>
 
