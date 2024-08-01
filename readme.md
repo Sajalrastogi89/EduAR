@@ -26,11 +26,19 @@ EduAR is designed to revolutionize education through augmented reality. By using
 Check out some screenshots of EduAR in action!
 
 ### Biology
-<div>
-  <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
-  <img src="/img/Muscles-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
-  <img src="/img/heart-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
-</div>
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="padding: 10px;">
+      <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
+    </td>
+    <td style="padding: 10px;">
+      <img src="/img/Muscles-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
+    </td>
+    <td style="padding: 10px;">
+      <img src="/img/heart-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
+    </td>
+  </tr>
+</table>
 
 ### Tourism
 <div>
