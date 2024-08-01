@@ -28,7 +28,7 @@ Check out some screenshots of EduAR in action!
 ### Biology
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="padding: 10px;">
+    <td style="padding: 20px;">
       <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="height: 35vh;">
     </td>
     <td style="padding: 10px;">
