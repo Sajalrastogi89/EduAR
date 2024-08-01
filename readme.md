@@ -25,17 +25,18 @@ Check out some screenshots of EduAR in action!
 
 ### Biology
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
-  <img src="/img/Muscles-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
-  <img src="/img/heart-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; width: 200px; height: 200px;">
+  <img src="/img/Muscles-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; width: 200px; height: 200px;">
+  <img src="/img/heart-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; width: 200px; height: 200px;">
 </div>
 
 ### Tourism
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
-  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
-  <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; width: 200px; height: 200px;">
+  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; width: 200px; height: 200px;">
+  <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="margin: 10px; width: 200px; height: 200px;">
 </div>
+
 
 ### Prototype Showcase: Solar System
 
