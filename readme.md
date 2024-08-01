@@ -6,7 +6,7 @@ Welcome to the EduAR repository! Dive into the fascinating world of augmented re
 
 <div>
     <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
-    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 35vh; margin-bottom:5vh">
+    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
     <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
 </div>
 
@@ -26,17 +26,17 @@ EduAR is designed to revolutionize education through augmented reality. By using
 Check out some screenshots of EduAR in action!
 
 ### Biology
-<div style="display: flex; align-items: center; justify-content: space-around; height: 100vh;">
-  <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="padding: 20vw;">
-  <img src="/img/Muscles-removebg-preview.png" alt="EduAR Logo">
-  <img src="/img/heart-removebg-preview.png" alt="EduAR Logo">
+<div>
+  <img src="/img/brain-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
+  <img src="/img/Muscles-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
+  <img src="/img/heart-removebg-preview.png" alt="EduAR Logo" style="height: 30vh;">
 </div>
 
 ### Tourism
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="padding: 20px; width: 200px; height: 200px;">
-  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="padding: 20px; width: 200px; height: 200px;">
-  <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="padding: 20px; width: 200px; height: 200px;">
+<div>
+  <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
+  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
+  <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
 </div>
 
 
