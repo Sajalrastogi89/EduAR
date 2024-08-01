@@ -5,8 +5,8 @@
 Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing textbook images to live 3D models, making complex topics engaging and interactive for students.
 
 <div>
-    <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style= "height: 40vh;">
-    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 35vh;">
+    <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
+    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 35vh; margin-bottom:5vh">
     <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
 </div>
 
