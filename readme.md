@@ -16,7 +16,7 @@ EduAR is designed to revolutionize education through augmented reality. By using
 - **Marker-Based AR:** Trigger models using specific marker images.
 - **Immersive Learning:** Enhance comprehension through interactive visualization.
 
-![Example Marker Image](https://via.placeholder.com/300x200)
+![Example Marker Image](img/tree-removebg-preview.png)
 
 ## Project Gallery
 
