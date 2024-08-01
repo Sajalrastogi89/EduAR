@@ -48,7 +48,7 @@ Check out some screenshots of EduAR in action!
       <img src="/img/ac_motor-removebg-preview.png" alt="EduAR Logo" style="height: 36vh;">
     </td>
     <td style="padding: 10px;">
-      <img src="/img/tree-removebg-preview.png" alt="EduAR Logo" style="height: 42vh;">
+      <img src="/img/tree-removebg-preview.png" alt="EduAR Logo" style="height: 44vh;">
     </td>
     <td style="padding: 10px;">
       <img src="/img/solonoid-removebg-preview.png" alt="EduAR Logo" style="height: 36vh;">
