@@ -1,53 +1,88 @@
-# Solar System AR App README
+# EduAR: Augmented Reality Educational App
 
-Welcome to the Solar System AR App repository!
+## Hey, Welcome!
 
-This repository contains the source code for our Solar System AR (Augmented Reality) mobile application. With this app, users can explore the wonders of our solar system in an immersive and interactive way, right from their mobile devices.
+Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing 3D models to life, making complex topics engaging and interactive for students.
 
-## Contents
+![EduAR Logo](https://via.placeholder.com/150)
 
-1. [Overview](#overview)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Dependencies](#dependencies)
-5. [Google Drive Link](#google-drive-link)
+## Project Description
 
-## Overview
+EduAR is designed to revolutionize education through augmented reality. By using marker images, students can explore detailed 3D models related to various subjects, enhancing their understanding and retention. Point your AR device towards a marker image, and watch as a live 3D model augments right before your eyes, making learning both fun and effective.
 
-Our Solar System AR App utilizes augmented reality technology to bring the solar system to life. Users can point their device's camera at a marker image to trigger the AR experience. The app overlays detailed 3D models of planets, moons, and other celestial bodies onto the real-world environment captured by the camera. All 3D models used in this project are provided by NASA. Our Solar System AR App offers a fully functional simulation where all planets revolve around the Sun, and the Moon orbits the Earth. Users can study each planet individually by focusing on it, and relevant information about the selected planet will be displayed alongside the AR model. This interactive feature enhances the educational aspect of the app, allowing users to learn about the solar system while experiencing it in augmented reality.
-[![Image 1](img/Screenshot%202024-04-28%20221123.png)](img/Screenshot%202024-04-28%20221123.png)
-[![Image 2]](img/Screenshot%202023-12-16%20034222.png)
-[![Image 3](image3.jpg)](image3.jpg)
+### Key Features
 
-## Installation
+- **Interactive 3D Models:** Explore subjects with lifelike 3D models.
+- **Marker-Based AR:** Trigger models using specific marker images.
+- **Immersive Learning:** Enhance comprehension through interactive visualization.
 
-To install the Solar System AR App on your device, follow these steps:
+![Example Marker Image](https://via.placeholder.com/300x200)
 
-1. Download the provided APK file from the repository.
-2. Transfer the APK file to your Android device.
-3. On your device, navigate to Settings > Security.
-4. Enable the "Unknown Sources" option to allow installation of apps from sources other than the Google Play Store.
-5. Use a file manager app to locate the APK file and tap on it to begin the installation process.
-6. Follow the on-screen instructions to complete the installation.
+## Project Gallery
 
-## Usage
+### How It Looks
 
-Once the app is installed on your device, follow these steps to explore the solar system in AR:
+Check out some screenshots of EduAR in action!
 
-1. Launch the Solar System AR App.
-2. Ensure that your device's camera is enabled and permissions are granted.
-3. Point the camera at the marker image provided in the repository or print it out.
-4. Wait for the app to detect the marker image.
-5. Once the marker is detected, enjoy exploring the augmented reality solar system! Move your device around to view different angles and perspectives.
+#### Image Carousel
 
-## Dependencies
+<div style="display: flex; overflow-x: scroll;">
+  <img src="https://via.placeholder.com/300x200" alt="Screenshot 1" style="margin-right: 10px;">
+  <img src="https://via.placeholder.com/300x200" alt="Screenshot 2" style="margin-right: 10px;">
+  <img src="https://via.placeholder.com/300x200" alt="Screenshot 3" style="margin-right: 10px;">
+  <img src="https://via.placeholder.com/300x200" alt="Screenshot 4" style="margin-right: 10px;">
+  <img src="https://via.placeholder.com/300x200" alt="Screenshot 5" style="margin-right: 10px;">
+</div>
 
-Our Solar System AR App is built using the following technologies:
+#### Image Cards
 
-- Unity 3D: A powerful game development platform used for creating immersive AR experiences.
-- Vuforia: An augmented reality software development kit (SDK) for mobile devices that enables the detection and tracking of images.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 1 1 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px;">
+    <img src="https://via.placeholder.com/300x200" alt="Screenshot 6">
+    <p style="text-align: center;">Interactive AR Model 1</p>
+  </div>
+  <div style="flex: 1 1 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px;">
+    <img src="https://via.placeholder.com/300x200" alt="Screenshot 7">
+    <p style="text-align: center;">Interactive AR Model 2</p>
+  </div>
+  <div style="flex: 1 1 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px;">
+    <img src="https://via.placeholder.com/300x200" alt="Screenshot 8">
+    <p style="text-align: center;">Interactive AR Model 3</p>
+  </div>
+  <!-- Add more cards as needed -->
+</div>
 
-## Google Drive Link
+### Prototype Showcase: Solar System
 
-For access to the source code files, please visit the following Google Drive link: [Solar System AR App Source Code](https://drive.google.com/drive/folders/your-folder-link)
+As a prototype, we implemented a fully interactive model of the solar system. This allows students to explore planets, moons, and other celestial bodies in 3D space, providing a comprehensive understanding of our solar system.
 
+![Solar System Prototype](https://via.placeholder.com/300x200)
+
+### Live Demonstration
+
+Watch the video below to see EduAR in action:
+
+[![EduAR Demo](https://via.placeholder.com/300x200)](https://www.youtube.com/watch?v=dummyvideolink)
+
+## Getting Started
+
+To get started with EduAR, follow these steps:
+
+1. **Download the App:**
+   - [Download the APK](https://github.com/your-repo-link)
+   
+2. **Install the App:**
+   - Transfer the APK to your Android device.
+   - Enable installation from unknown sources in your device settings.
+   - Locate the APK file using a file manager and install it.
+
+3. **Using the App:**
+   - Open EduAR and grant necessary permissions.
+   - Point your device's camera at the marker images to trigger the AR models.
+   - Explore and interact with the 3D models to learn more about each topic.
+
+## Contact and Support
+
+For any questions, suggestions, or support, feel free to contact us at [support@eduar.com](mailto:support@eduar.com).
+
+We hope EduAR enhances your learning experience and makes studying more enjoyable!
