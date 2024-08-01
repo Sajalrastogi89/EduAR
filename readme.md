@@ -2,9 +2,9 @@
 
 ## Hey, Welcome!
 
-Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing 3D models to life, making complex topics engaging and interactive for students.
+Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing textbook images to live 3D models, making complex topics engaging and interactive for students.
 
-![EduAR Logo](https://via.placeholder.com/150)
+![EduAR Logo](/img/EduAR%20logo.jpg)
 
 ## Project Description
 
