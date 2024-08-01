@@ -44,13 +44,13 @@ Check out some screenshots of EduAR in action!
 <table style="width: 100vw; text-align: center;">
   <tr>
     <td style="padding: 20vh;">
-      <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="height: 35vh;">
+      <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
     </td>
     <td style="padding: 10px;">
-      <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="height: 35vh;">
+      <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
     </td>
     <td style="padding: 10px;">
-      <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="height: 35vh;">
+      <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
     </td>
   </tr>
 </table>
