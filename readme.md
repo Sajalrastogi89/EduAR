@@ -4,9 +4,11 @@
 
 Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing textbook images to live 3D models, making complex topics engaging and interactive for students.
 
-![EduAR Logo](/img/logo2-removebg-preview.png)
-![EduAR Logo](/img/logo4-removebg-preview.png)
-![EduAR Logo](/img/logo3-removebg-preview.png)
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+</div>
 
 ## Project Description
 
@@ -18,40 +20,14 @@ EduAR is designed to revolutionize education through augmented reality. By using
 - **Marker-Based AR:** Trigger models using specific marker images.
 - **Immersive Learning:** Enhance comprehension through interactive visualization.
 
-![Example Marker Image](img/tree-removebg-preview.png)
-
 ## Project Gallery
-
-### How It Looks
-
 Check out some screenshots of EduAR in action!
 
-#### Image Carousel
-
-<div style="display: flex; overflow-x: scroll;">
-  <img src="https://via.placeholder.com/300x200" alt="Screenshot 1" style="margin-right: 10px;">
-  <img src="https://via.placeholder.com/300x200" alt="Screenshot 2" style="margin-right: 10px;">
-  <img src="https://via.placeholder.com/300x200" alt="Screenshot 3" style="margin-right: 10px;">
-  <img src="https://via.placeholder.com/300x200" alt="Screenshot 4" style="margin-right: 10px;">
-  <img src="https://via.placeholder.com/300x200" alt="Screenshot 5" style="margin-right: 10px;">
-</div>
-
-#### Image Cards
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px;">
-    <img src="https://via.placeholder.com/300x200" alt="Screenshot 6">
-    <p style="text-align: center;">Interactive AR Model 1</p>
-  </div>
-  <div style="flex: 1 1 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px;">
-    <img src="https://via.placeholder.com/300x200" alt="Screenshot 7">
-    <p style="text-align: center;">Interactive AR Model 2</p>
-  </div>
-  <div style="flex: 1 1 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px;">
-    <img src="https://via.placeholder.com/300x200" alt="Screenshot 8">
-    <p style="text-align: center;">Interactive AR Model 3</p>
-  </div>
-  <!-- Add more cards as needed -->
+### Tourism
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/tajmahal-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
+  <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="EduAR Logo" style="margin: 10px;">
 </div>
 
 ### Prototype Showcase: Solar System
