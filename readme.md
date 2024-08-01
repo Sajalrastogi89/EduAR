@@ -6,7 +6,7 @@ Welcome to the EduAR repository! Dive into the fascinating world of augmented re
 
 <div>
     <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style= "height: 40vh;">
-    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
+    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 35vh;">
     <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
 </div>
 
