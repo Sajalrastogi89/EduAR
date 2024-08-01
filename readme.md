@@ -4,15 +4,15 @@
 
 Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing textbook images to live 3D models, making complex topics engaging and interactive for students.
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; height: 100vh; width: 100vw;">
-  <a href="https://example.com/link1" target="_blank" style="flex: 1 1 33%; max-width: 33%;">
-    <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="width: 100%; height: auto; padding: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <a href="https://example.com/link1" target="_blank">
+    <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="padding: 10px; height: 30vh;">
   </a>
-  <a href="https://example.com/link2" target="_blank" style="flex: 1 1 33%; max-width: 33%;">
-    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="width: 100%; height: auto; padding: 10px;">
+  <a href="https://example.com/link2" target="_blank">
+    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="padding: 10px; margin-bottom: 20px; height: 30vh;">
   </a>
-  <a href="https://example.com/link3" target="_blank" style="flex: 1 1 33%; max-width: 33%;">
-    <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="width: 100%; height: auto; padding: 10px;">
+  <a href="https://example.com/link3" target="_blank">
+    <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="padding: 10px; height: 30vh;">
   </a>
 </div>
 
