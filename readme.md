@@ -96,7 +96,7 @@ As a prototype, we implemented a fully interactive model of the solar system. Th
 
 ### Live Demonstration
 
-Watch the video below to see EduAR in action:
+Watch the video below to see EduAR prototype in action:
 
 
 [![Watch the video](img/Screenshot%202023-12-16%20034222.png)](https://www.youtube.com/watch?v=f3FH_AFN9xY&playlist=f3FH_AFN9xY&loop=1)
