@@ -99,7 +99,8 @@ As a prototype, we implemented a fully interactive model of the solar system. Th
 Watch the video below to see EduAR in action:
 
 
-![Prototype GIF](/img/Screen%20Recording%20(online-video-cutter.com)%20(1)%20(online-video-cutter.com)%20(1).mp4)
+[![Watch the video](https://img.youtube.com/vi/f3FH_AFN9xY/hqdefault.jpg)](https://www.youtube.com/watch?v=f3FH_AFN9xY&playlist=f3FH_AFN9xY&loop=1)
+
 
 
 ## Getting Started
