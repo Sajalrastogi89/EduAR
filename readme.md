@@ -4,11 +4,19 @@
 
 Welcome to the EduAR repository! Dive into the fascinating world of augmented reality with our innovative educational app. EduAR transforms learning by bringing textbook images to live 3D models, making complex topics engaging and interactive for students.
 
-<div>
-    <img src="/img/logo2-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
-    <img src="/img/logo4-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
-    <img src="/img/logo3-removebg-preview.png" alt="EduAR Logo" style="height: 40vh;">
-</div>
+<table style="width: 90vw; text-align: center;">
+  <tr>
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/logo2-removebg-preview.png" alt="Brain" style="height: 35vw; width: 30vw;">
+    </td>
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/logo4-removebg-preview.png" alt="Muscles" style="height: 35vw; width: 30vw;">
+    </td>
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/logo3-removebg-preview.png" alt="Heart" style="height: 35vw; width: 30vw;">
+    </td>
+  </tr>
+</table>
 
 
 
@@ -28,14 +36,14 @@ Check out some screenshots of EduAR in action!
 ## Biology
 <table style="width: 90vw; text-align: center;">
   <tr>
-    <td style="padding: 20vh;">
-      <img src="/img/brain-removebg-preview.png" alt="Brain" style="height: 35vh; width: 30vw;">
+    <td style="padding: 10vw;"> <!-- Adjusted padding -->
+      <img src="/img/brain-removebg-preview.png" alt="Brain" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/Muscles-removebg-preview.png" alt="Muscles" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/Muscles-removebg-preview.png" alt="Muscles" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/heart-removebg-preview.png" alt="Heart" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/heart-removebg-preview.png" alt="Heart" style="height: 35vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -43,14 +51,14 @@ Check out some screenshots of EduAR in action!
 ## Physics
 <table style="width: 90vw; text-align: center;">
   <tr>
-    <td style="padding: 20vh;">
-      <img src="/img/ac_motor-removebg-preview.png" alt="AC Motor" style="height: 35vh; width: 30vw;">
+    <td style="padding: 10vw;"> <!-- Adjusted padding -->
+      <img src="/img/ac_motor-removebg-preview.png" alt="AC Motor" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/tree-removebg-preview.png" alt="Tree" style="height: 35vh; width: 16vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/tree-removebg-preview.png" alt="Tree" style="height: 35vw; width: 16vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/solonoid-removebg-preview.png" alt="Solenoid" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/solonoid-removebg-preview.png" alt="Solenoid" style="height: 35vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -58,14 +66,14 @@ Check out some screenshots of EduAR in action!
 ## Chemistry
 <table style="width: 90vw; text-align: center;">
   <tr>
-    <td style="padding: 20vh;">
-      <img src="/img/Oxygen-removebg-preview.png" alt="Oxygen" style="height: 35vh; width: 30vw;">
+    <td style="padding: 10vw;"> <!-- Adjusted padding -->
+      <img src="/img/Oxygen-removebg-preview.png" alt="Oxygen" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/cathode-removebg-preview.png" alt="Cathode" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/cathode-removebg-preview.png" alt="Cathode" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/molecule-removebg-preview.png" alt="Molecule" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/molecule-removebg-preview.png" alt="Molecule" style="height: 35vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -73,17 +81,18 @@ Check out some screenshots of EduAR in action!
 ## Tourism
 <table style="width: 90vw; text-align: center;">
   <tr>
-    <td style="padding: 20vh;">
-      <img src="/img/tajmahal-removebg-preview.png" alt="Taj Mahal" style="height: 35vh; width: 30vw;">
+    <td style="padding: 10vw;"> <!-- Adjusted padding -->
+      <img src="/img/tajmahal-removebg-preview.png" alt="Taj Mahal" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="Christ the Redeemer" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="Christ the Redeemer" style="height: 35vw; width: 30vw;">
     </td>
-    <td style="padding: 10px;">
-      <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="The Colosseum" style="height: 35vh; width: 30vw;">
+    <td style="padding: 5vw;"> <!-- Adjusted padding -->
+      <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="The Colosseum" style="height: 35vw; width: 30vw;">
     </td>
   </tr>
 </table>
+
 
 
 ### Prototype Showcase: Solar System
