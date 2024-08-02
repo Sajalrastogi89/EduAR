@@ -94,20 +94,20 @@ Check out some screenshots of EduAR in action!
 
 As a prototype, we implemented a fully interactive model of the solar system. This allows students to explore planets, moons, and other celestial bodies in 3D space, providing a comprehensive understanding of our solar system.
 
-![Solar System Prototype](https://via.placeholder.com/300x200)
-
 ### Live Demonstration
 
 Watch the video below to see EduAR in action:
 
-[![EduAR Demo](https://via.placeholder.com/300x200)](https://www.youtube.com/watch?v=dummyvideolink)
+
+![Prototype GIF](/img/Screen%20Recording%20(online-video-cutter.com)%20(1)%20(online-video-cutter.com).gif)
+
 
 ## Getting Started
 
-To get started with EduAR, follow these steps:
+To get started with prototype of EduAR, follow these steps:
 
 1. **Download the App:**
-   - [Download the APK](https://github.com/your-repo-link)
+   - [Download the APK](/solarSystem%20.apk)
    
 2. **Install the App:**
    - Transfer the APK to your Android device.
@@ -116,11 +116,11 @@ To get started with EduAR, follow these steps:
 
 3. **Using the App:**
    - Open EduAR and grant necessary permissions.
-   - Point your device's camera at the marker images to trigger the AR models.
+   - Point your device's camera at the [marker](/MarkerImage.jpg) image to trigger the AR models.
    - Explore and interact with the 3D models to learn more about each topic.
 
 ## Contact and Support
 
-For any questions, suggestions, or support, feel free to contact us at [support@eduar.com](mailto:support@eduar.com).
+For any questions, suggestions, or support, feel free to contact us at [mail](mailto:Sajalrastogii89@gmail.com).
 
 We hope EduAR enhances your learning experience and makes studying more enjoyable!
