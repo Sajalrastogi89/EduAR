@@ -7,13 +7,13 @@ Welcome to the EduAR repository! Dive into the fascinating world of augmented re
 <table style="width: 90vw; text-align: center;">
   <tr>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/logo2-removebg-preview.png" alt="Brain" style="height: 25vw; width: 30vw;">
+      <img src="/img/logo2-removebg-preview.png" alt="Brain" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/logo4-removebg-preview.png" alt="Muscles" style="height: 25vw; width: 30vw;">
+      <img src="/img/logo4-removebg-preview.png" alt="Muscles" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/logo3-removebg-preview.png" alt="Heart" style="height: 25vw; width: 30vw;">
+      <img src="/img/logo3-removebg-preview.png" alt="Heart" style="height: 20vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -37,13 +37,13 @@ Check out some screenshots of EduAR in action!
 <table style="width: 90vw; text-align: center;">
   <tr>
     <td style="padding: 10vw;"> <!-- Adjusted padding -->
-      <img src="/img/brain-removebg-preview.png" alt="Brain" style="height: 25vw; width: 30vw;">
+      <img src="/img/brain-removebg-preview.png" alt="Brain" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/Muscles-removebg-preview.png" alt="Muscles" style="height: 25vw; width: 30vw;">
+      <img src="/img/Muscles-removebg-preview.png" alt="Muscles" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/heart-removebg-preview.png" alt="Heart" style="height: 25vw; width: 30vw;">
+      <img src="/img/heart-removebg-preview.png" alt="Heart" style="height: 20vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -52,13 +52,13 @@ Check out some screenshots of EduAR in action!
 <table style="width: 90vw; text-align: center;">
   <tr>
     <td style="padding: 10vw;"> <!-- Adjusted padding -->
-      <img src="/img/ac_motor-removebg-preview.png" alt="AC Motor" style="height: 25vw; width: 30vw;">
+      <img src="/img/ac_motor-removebg-preview.png" alt="AC Motor" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/tree-removebg-preview.png" alt="Tree" style="height: 25vw; width: 30vw;">
+      <img src="/img/tree-removebg-preview.png" alt="Tree" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/solonoid-removebg-preview.png" alt="Solenoid" style="height: 25vw; width: 30vw;">
+      <img src="/img/solonoid-removebg-preview.png" alt="Solenoid" style="height: 20vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -67,13 +67,13 @@ Check out some screenshots of EduAR in action!
 <table style="width: 90vw; text-align: center;">
   <tr>
     <td style="padding: 10vw;"> <!-- Adjusted padding -->
-      <img src="/img/Oxygen-removebg-preview.png" alt="Oxygen" style="height: 25vw; width: 30vw;">
+      <img src="/img/Oxygen-removebg-preview.png" alt="Oxygen" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/cathode-removebg-preview.png" alt="Cathode" style="height: 25vw; width: 30vw;">
+      <img src="/img/cathode-removebg-preview.png" alt="Cathode" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/molecule-removebg-preview.png" alt="Molecule" style="height: 25vw; width: 30vw;">
+      <img src="/img/molecule-removebg-preview.png" alt="Molecule" style="height: 20vw; width: 30vw;">
     </td>
   </tr>
 </table>
@@ -82,13 +82,13 @@ Check out some screenshots of EduAR in action!
 <table style="width: 90vw; text-align: center;">
   <tr>
     <td style="padding: 10vw;"> <!-- Adjusted padding -->
-      <img src="/img/tajmahal-removebg-preview.png" alt="Taj Mahal" style="height: 25vw; width: 30vw;">
+      <img src="/img/tajmahal-removebg-preview.png" alt="Taj Mahal" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="Christ the Redeemer" style="height: 25vw; width: 30vw;">
+      <img src="/img/Christ_the_Redeemer__Brazil-removebg-preview.png" alt="Christ the Redeemer" style="height: 20vw; width: 30vw;">
     </td>
     <td style="padding: 5vw;"> <!-- Adjusted padding -->
-      <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="The Colosseum" style="height: 25vw; width: 30vw;">
+      <img src="/img/The_Colosseum__Rome__Italy-removebg-preview.png" alt="The Colosseum" style="height: 20vw; width: 30vw;">
     </td>
   </tr>
 </table>
